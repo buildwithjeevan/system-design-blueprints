@@ -1,5 +1,11 @@
 # 📡 Event-Driven Architecture
 
+### 🟢 Difficulty
+Intermediate
+
+### 🧩 Category
+System Design · Backend Architecture · Distributed Systems
+
 ### 📘 Problem
 How do we build loosely coupled systems where services can react to changes without directly calling each other? How can we scale services independently and handle asynchronous operations?
 
